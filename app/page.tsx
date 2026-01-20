@@ -23,7 +23,7 @@ export default function Home() {
 
         <div className="pt-4">
           <Link href="/admin">
-            <Button variant="link" className="text-muted-foreground hover:text-primary">
+            <Button variant="ghost" className="text-muted-foreground hover:text-primary">
               View Admin Dashboard →
             </Button>
           </Link>
